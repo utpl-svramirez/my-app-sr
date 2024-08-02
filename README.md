@@ -1,5 +1,3 @@
-*** se actualiza src index.js con los componentes del mapa de capacidades ***
-
 
 Estudiante: Ramírez Quichimbo Silvia Verónica
 Centro Regional: Guayaquil
